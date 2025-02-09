@@ -15,13 +15,13 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: Text("Zahid's APP"),
           centerTitle: true,
-          backgroundColor: Color(0xFF5CBA5C), // Setting the hex color
+          backgroundColor: Color(0xFF5CBA5C),
           leading: IconButton(
             icon: Icon(Icons.menu),
             onPressed: () {},
           ),
         ),
-        body: Center(child: Text('Hello, Zahid!')), // Just for UI balance
+        body: Center(child: Text('Hello, Zahid!')),
       ),
     );
   }
