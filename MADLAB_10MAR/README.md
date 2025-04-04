@@ -1,6 +1,3 @@
-Here's a README file for your personal portfolio app project:
-
-```markdown
 # Personal Portfolio App
 
 ## Overview
@@ -56,19 +53,12 @@ The main components of the app are as follows:
 - `favorites_page.dart`: Contains the `FavoritesPage` class that lists the user's favorite topics.
 
 ## Screenshots
-
+![All Pages](assets/fdg.png)
 
 ## Conclusion
 The portfolio app demonstrates a solid understanding of Flutter basics, including widget usage, navigation, and layout design. The app is functional, and the UI components work harmoniously together to create a polished user experience. Future enhancements may include adding animations or integrating a backend service.
 
 ## Author
 **Md Zahid Hasan Patwary**  
-**ID**: 221-15-4996  
-**Section**: 61_N2  
-**Course Code**: CSE414  
-**Course Title**: Mobile Application Design Lab  
-**Submission Date**: 04 April 2025
-
-```
 
 Feel free to modify any sections or add additional details as needed!
